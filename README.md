@@ -4,16 +4,27 @@ This repository contains notebook introducing reader to basic concepts of multil
 1) Consider only the below columns and prepare a prediction model for predicting Price.
 
 Corolla<-Corolla[c("Price","Age_08_04","KM","HP","cc","Doors","Gears","Quarterly_Tax","Weight")]
+
 Model -- model of the car
+
 Price  -- Offer Price in EUROs	
+
 Age_08_04 -- Age in months as in August 2004	
+
 KM -- Accumulated Kilometers on odometer
+
 HP -- Horse Power
+
 cc -- Cylinder Volume in cubic centimeters
+
 Doors -- Number of doors
+
 Cylinders	-- Number of cylinders
+
 Gears -- Number of gear positions
+
 Quarterly_Tax -- Quarterly road tax in EUROs
+
 Weight -- Weight in Kilograms
 
 
